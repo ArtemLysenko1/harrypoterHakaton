@@ -1,0 +1,60 @@
+body {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+    height: 100px;
+}
+
+h1 {
+    font-family: SEGOE SCRIPT;
+}
+
+header a {
+    color: black;
+    background-color: rgb(36, 65, 255);
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+    border: none;
+
+}
+
+h2 {
+    font-family: SEGOE SCRIPT;
+}
+
+.img1 {
+    width: 500px;
+    height: 200px;
+}
+
+p {
+    font-family: fantasy;
+}
+
+footer a {
+    color: black;
+    background-color: purple;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+    border: none;
+
+}
+
+footer {
+    background-color: rgba(59, 3, 71, 0.433);
+}
+
+header {
+    background-color: rgba(59, 3, 71, 0.433);
+}
